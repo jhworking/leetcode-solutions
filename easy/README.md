@@ -43,16 +43,20 @@ This folder contains solutions to LeetCode easy problems. Each problem has its o
    [Problem Link](https://leetcode.com/problems/implement-strstr/)
 
 10. **035 Search Insert Position**  
-    Return the index where a target value should be inserted in a sorted array.  
-    [Problem Link](https://leetcode.com/problems/search-insert-position/)
+   Return the index where a target value should be inserted in a sorted array.  
+   [Problem Link](https://leetcode.com/problems/search-insert-position/)
 
 11. **058 Length of Last Word**  
-    Return the length of the last word in a string.  
-    [Problem Link](https://leetcode.com/problems/length-of-last-word/)
+   Return the length of the last word in a string.  
+   [Problem Link](https://leetcode.com/problems/length-of-last-word/)
 
 12. **066 Plus One**  
-    Increment a number represented as an array of digits by one.  
-    [Problem Link](https://leetcode.com/problems/plus-one/)
+   Increment a number represented as an array of digits by one.  
+   [Problem Link](https://leetcode.com/problems/plus-one/)
+
+13. **067 Add Binary**
+   Given two binary strings a and b, return their sum as a binary string.
+   [Problem Link](https://leetcode.com/problems/add-binary/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
