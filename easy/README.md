@@ -65,6 +65,10 @@ This folder contains solutions to LeetCode easy problems. Each problem has its o
 15. **Climbing Stairs**
    You are climbing a staircase. It takes n steps to reach the top.
    [Problem Link](https://leetcode.com/problems/climbing-stairs/)
+
+16. **Remove Duplicates from Sorted List**
+   Given the head of a sorted linked list, delete all duplicates such that each element appears only once.
+   [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
