@@ -77,6 +77,10 @@ This folder contains solutions to LeetCode easy problems. Each problem has its o
 18. **Binary Tree Inorder Traversal**
    Given the root of a binary tree, return the inorder traversal of its nodes' values.
    [Problem Link](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+
+19. **Same Tree**
+   Given the roots of two binary trees p and q, write a function to check if they are the same or not.
+   [Problem Link](https://leetcode.com/problems/same-tree/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
