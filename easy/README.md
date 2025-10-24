@@ -57,6 +57,10 @@ This folder contains solutions to LeetCode easy problems. Each problem has its o
 13. **067 Add Binary**
    Given two binary strings a and b, return their sum as a binary string.
    [Problem Link](https://leetcode.com/problems/add-binary/)
+
+14. **069 Sqrt(x)**
+   Given a non-negative integer x, return the square root of x rounded down to the nearest integer.
+   [Problem Link](https://leetcode.com/problems/sqrtx/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
