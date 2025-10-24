@@ -73,6 +73,10 @@ This folder contains solutions to LeetCode easy problems. Each problem has its o
 17. **Merged Sorted Array**
    You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
    [Problem Link](https://leetcode.com/problems/merge-sorted-array/)
+
+18. **Binary Tree Inorder Traversal**
+   Given the root of a binary tree, return the inorder traversal of its nodes' values.
+   [Problem Link](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
