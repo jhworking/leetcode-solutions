@@ -23,4 +23,4 @@ Given the `root` of a binary tree, return the inorder traversal of its nodes' va
 - The number of nodes in the tree is in the range `[0, 100]`.
 - `-100 <= Node.val <= 100`
 
-**Link:** [LeetCode 100](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+**Link:** [LeetCode 094](https://leetcode.com/problems/binary-tree-inorder-traversal/)
