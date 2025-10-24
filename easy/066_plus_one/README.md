@@ -11,13 +11,13 @@ Increment the large integer by one and return the resulting array of digits.
 **Explanation:** 123 + 1 = 124  
 
 **Example 2:**  
-**Input:**: digits = [4,3,2,1]  
-**Output:**: [4,3,2,2]  
+**Input:** digits = [4,3,2,1]  
+**Output:** [4,3,2,2]  
 **Explanation:** 4321 + 1 = 4322
 
 **Example 3:**  
-**Input:**: digits = [0]  
-**Output:**: [1]  
+**Input:** digits = [0]  
+**Output:** [1]  
 
 **Constraints:**
 - `1 <= digits.length <= 100`

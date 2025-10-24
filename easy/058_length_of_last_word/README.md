@@ -5,19 +5,19 @@ Given a string `s` consisting of words and spaces, return the *length of the **l
 
 A **word** is defined as a maximal **substring** consisting of non-space characters only.
 
-**Example 1:**
-**Input:** s = "Hello World"
-**Output:** 5
+**Example 1:**  
+**Input:** s = "Hello World"  
+**Output:** 5  
 **Explanation:** The last word is "World", which has length 5.
 
-**Example 2:**
-**Input:** s = "   fly me   to   the moon  "
-**Output:** 4
+**Example 2:**  
+**Input:** s = "   fly me   to   the moon  "  
+**Output:** 4  
 **Explanation:** The last word is "moon", which has length 4.
 
-**Example 3:**
-**Input:** s = "luffy is still joyboy"
-**Output:** 6
+**Example 3:**  
+**Input:** s = "luffy is still joyboy"  
+**Output:** 6  
 **Explanation:** The last word is "joyboy", which has length 6.
 
 **Constraints:**
