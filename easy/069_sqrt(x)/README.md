@@ -1,4 +1,4 @@
-# Plus One
+# Sqrt(x)
 
 **Problem:**  
 Given a non-negative integer `x`, return the square root of `x` rounded down to the nearest integer. The returned `integer` should be **non-negative** as well.
@@ -20,4 +20,4 @@ Explanation: The square root of 8 is 2.82842..., and since we round it down to t
 **Constraints:**  
 - 0 <= x <= 231 - 1
 
-**Link:** [LeetCode 67](https://leetcode.com/problems/sqrtx/)
+**Link:** [LeetCode 69](https://leetcode.com/problems/sqrtx/)
