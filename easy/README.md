@@ -61,6 +61,10 @@ This folder contains solutions to LeetCode easy problems. Each problem has its o
 14. **069 Sqrt(x)**
    Given a non-negative integer x, return the square root of x rounded down to the nearest integer.
    [Problem Link](https://leetcode.com/problems/sqrtx/)
+
+15. **Climbing Stairs**
+   You are climbing a staircase. It takes n steps to reach the top.
+   [Problem Link](https://leetcode.com/problems/climbing-stairs/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
