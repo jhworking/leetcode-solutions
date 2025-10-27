@@ -18,4 +18,4 @@ Given an integer array `nums` where the elements are sorted in **ascending order
 - `-104 <= nums[i] <= 104`
 - `nums` is sorted in a **strictly increasing** order.
 
-**Link:** [LeetCode 108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
+**Link:** [LeetCode 108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
