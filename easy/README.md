@@ -105,6 +105,10 @@ This folder contains solutions to LeetCode easy problems. Each problem has its o
 25. **Path Sum**
    Given the root of a binary tree and an integer targetSum, return true if the tree has a root-to-leaf path such that adding up all the values along the path equals targetSum.
    [Problem Link](https://leetcode.com/problems/path-sum/)
+
+26. **Pascal's Triangle**
+   Given an integer numRows, return the first numRows of Pascal's triangle.
+   [Problem Link](https://leetcode.com/problems/pascals-triangle/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
