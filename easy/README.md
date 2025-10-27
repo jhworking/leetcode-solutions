@@ -113,6 +113,10 @@ This folder contains solutions to LeetCode easy problems. Each problem has its o
 26. **Pascal's Triangle II**
    Given an integer rowIndex, return the rowIndexth (0-indexed) row of the Pascal's triangle.
    [Problem Link](https://leetcode.com/problems/pascals-triangle-ii/)
+
+27. **Best Time to Buy and Sell Stock**
+   You are given an array prices where prices[i] is the price of a given stock on the ith day.
+   [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
