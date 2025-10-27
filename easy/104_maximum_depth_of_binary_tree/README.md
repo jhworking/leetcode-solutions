@@ -1,4 +1,4 @@
-# Same Tree
+# Maximum Deepth of Binary Tree
 
 **Problem:**
 Given the `root` of a binary tree, return its maximum depth.
