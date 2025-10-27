@@ -117,6 +117,10 @@ This folder contains solutions to LeetCode easy problems. Each problem has its o
 27. **Best Time to Buy and Sell Stock**
    You are given an array prices where prices[i] is the price of a given stock on the ith day.
    [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+
+28. **Valid Palindrome**
+   A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+   [Problem Link](https://leetcode.com/problems/valid-palindrome/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
