@@ -121,6 +121,10 @@ This folder contains solutions to LeetCode easy problems. Each problem has its o
 28. **Valid Palindrome**
    A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
    [Problem Link](https://leetcode.com/problems/valid-palindrome/)
+
+29. **Single Number**
+   Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+   [Problem Link](https://leetcode.com/problems/single-number/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
