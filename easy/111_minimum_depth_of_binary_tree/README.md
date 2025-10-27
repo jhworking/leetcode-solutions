@@ -1,4 +1,4 @@
-# Minimum Depth of Binary Treee
+# Minimum Depth of Binary Tree
 
 **Problem:**
 Given a binary tree, find its minimum depth.
