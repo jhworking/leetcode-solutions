@@ -81,6 +81,10 @@ This folder contains solutions to LeetCode easy problems. Each problem has its o
 19. **Same Tree**
    Given the roots of two binary trees p and q, write a function to check if they are the same or not.
    [Problem Link](https://leetcode.com/problems/same-tree/)
+
+20. **Symmetric Tree**
+   Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
+   [Problem Link](https://leetcode.com/problems/symmetric-tree/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
