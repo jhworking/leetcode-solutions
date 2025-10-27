@@ -88,7 +88,11 @@ This folder contains solutions to LeetCode easy problems. Each problem has its o
 
 21. **Maximum Depth of Binary Tree**
    Given the `root` of a binary tree, return its maximum depth.
-   [Probleem Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+   [Problem Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+22. **Convert Sorted Array to Binary Search Tree**
+   Given an integer array nums where the elements are sorted in ascending order, convert it to a height-balanced binary search tree.
+   [Problem Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
