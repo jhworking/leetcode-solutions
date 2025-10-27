@@ -101,6 +101,10 @@ This folder contains solutions to LeetCode easy problems. Each problem has its o
 24. **Minimum Depth of Binary Tree**
    Given a binary tree, find its minimum depth.
    [Problem Link](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+
+25. **Path Sum**
+   Given the root of a binary tree and an integer targetSum, return true if the tree has a root-to-leaf path such that adding up all the values along the path equals targetSum.
+   [Problem Link](https://leetcode.com/problems/path-sum/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
