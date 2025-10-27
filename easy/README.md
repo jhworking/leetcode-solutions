@@ -97,6 +97,10 @@ This folder contains solutions to LeetCode easy problems. Each problem has its o
 23. **Balanced Binary Tree**
    Given a binary tree, determine if it is height-balanced.
    [Problem Link](https://leetcode.com/problems/balanced-binary-tree/)
+
+24. **Minimum Depth of Binary Tree**
+   Given a binary tree, find its minimum depth.
+   [Problem Link](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
