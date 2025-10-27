@@ -125,6 +125,10 @@ This folder contains solutions to LeetCode easy problems. Each problem has its o
 29. **Single Number**
    Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
    [Problem Link](https://leetcode.com/problems/single-number/)
+
+30. **Linked List Cycle**
+   Given head, the head of a linked list, determine if the linked list has a cycle in it.
+   [Problem Link](https://leetcode.com/problems/linked-list-cycle/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
