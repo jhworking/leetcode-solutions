@@ -85,6 +85,10 @@ This folder contains solutions to LeetCode easy problems. Each problem has its o
 20. **Symmetric Tree**
    Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
    [Problem Link](https://leetcode.com/problems/symmetric-tree/)
+
+21. **Maximum Depth of Binary Tree**
+   Given the `root` of a binary tree, return its maximum depth.
+   [Probleem Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
