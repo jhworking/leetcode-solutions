@@ -133,6 +133,10 @@ This folder contains solutions to LeetCode easy problems. Each problem has its o
 31. **Binary Tree Preorder Traversal**
    Given the root of a binary tree, return the preorder traversal of its nodes' values.
    [Problem Link](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+
+31. **Binary Tree Postorder Traversal**
+   Given the root of a binary tree, return the postorder traversal of its nodes' values.
+   [Problem Link](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
