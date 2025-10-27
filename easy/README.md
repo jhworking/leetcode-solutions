@@ -109,6 +109,10 @@ This folder contains solutions to LeetCode easy problems. Each problem has its o
 26. **Pascal's Triangle**
    Given an integer numRows, return the first numRows of Pascal's triangle.
    [Problem Link](https://leetcode.com/problems/pascals-triangle/)
+
+26. **Pascal's Triangle II**
+   Given an integer rowIndex, return the rowIndexth (0-indexed) row of the Pascal's triangle.
+   [Problem Link](https://leetcode.com/problems/pascals-triangle-ii/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
