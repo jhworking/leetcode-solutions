@@ -8,7 +8,7 @@ Given the `root` of a binary tree, check whether it is a mirror of itself (i.e.,
 **Output:** true
 
 **Example 2:**  
-**Input:** root = [1,2,2,null,3,null,3] 
+**Input:** root = [1,2,2,null,3,null,3]  
 **Output:** false
 
 **Constraints:**

@@ -10,7 +10,7 @@ A binary tree's **maximum depth** is the number of nodes along the longest path 
 **Output:** 3
 
 **Example 2:**  
-**Input:** root = [1,null,2] 
+**Input:** root = [1,null,2]  
 **Output:** 2
 
 **Constraints:**
