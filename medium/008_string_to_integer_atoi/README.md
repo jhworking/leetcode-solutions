@@ -26,9 +26,9 @@ Step 3: "<u>42</u>" ("42" is read in)
 **Input:** s = " -042"  
 **Output:** -42  
 **Explanation:**  
-Step 1: "   -042" (leading whitespace is read and ignored)  
-            ^  
-Step 2: "   -042" ('-' is read, so the result should be negative)  
+Step 1: "______-042" (leading whitespace is read and ignored)  
+```            ```^  
+Step 2: "```   ```<u>-</u>042" ('-' is read, so the result should be negative)  
              ^  
 Step 3: "   -042" ("042" is read in, leading zeros ignored in the result)
 
