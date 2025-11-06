@@ -30,7 +30,7 @@ A   L S  I G
 Y A   H R
 P     I
 
-**Example 2:**  
+**Example 3:**  
 **Input:** s = "A", numRows = 1  
 **Output:** "A"
 
