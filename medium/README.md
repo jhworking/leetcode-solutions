@@ -14,6 +14,9 @@ This folder contains solutions to LeetCode medium problems. Each problem has its
    Given a string s, find the length of the longest substring without duplicate characters.
    [Problem Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
+3. **Longest Palindromic Substring**
+   Given a string s, return the longest palindromic substring in s.
+   [Problem Link](https://leetcode.com/problems/longest-palindromic-substring/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
