@@ -19,6 +19,16 @@ This folder contains solutions to LeetCode medium problems. Each problem has its
    [Problem Link](https://leetcode.com/problems/longest-palindromic-substring/)
 
 4. **Zigzag Conversion**
+   The string `"PAYPALISHIRING"` is written in a zigzag pattern
+   [Problem Link](https://leetcode.com/problems/zigzag-conversion/)
+
+5. **Reverse Integer**
+   Given a signed 32-bit integer x, return x with its digits reversed. 
+   [Problem Link](https://leetcode.com/problems/reverse-integer/)
+
+6. **String to Integer (atoi)**
+   Implement the myAtoi(string s) function, which converts a string to a 32-bit signed integer. 
+   [Problem Link](https://leetcode.com/problems/string-to-integer-atoi/)
 ---
 
 **Tip:** Each problem has a folder with the solution(s) in Python (and optionally other languages). You can click the links above to view the original LeetCode problem.
