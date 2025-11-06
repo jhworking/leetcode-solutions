@@ -20,7 +20,8 @@ Step 1: "42" (no characters read because there is no leading whitespace)
 ```      ```^  
 Step 2: "42" (no characters read because there is neither a '-' nor '+')  
 ```      ```^  
-Step 3: "<u>42</u>" ("42" is read in)
+Step 3: "&&" ("42" is read in)  
+```      ```^  
 
 **Example 2:**  
 **Input:** s = " -042"  
@@ -28,9 +29,9 @@ Step 3: "<u>42</u>" ("42" is read in)
 **Explanation:**  
 Step 1: "______-042" (leading whitespace is read and ignored)  
 ```           ```^  
-Step 2: "```   ```<u>-</u>042" ('-' is read, so the result should be negative)  
+Step 2: "```   ```**-**042" ('-' is read, so the result should be negative)  
 ```            ```^  
-Step 3: "```   ```-<u>042</u>" ("042" is read in, leading zeros ignored in the result)
+Step 3: "```   ```-**042**" ("042" is read in, leading zeros ignored in the result)  
 ```            ```^  
 
 **Example 3:**  
