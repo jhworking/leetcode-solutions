@@ -20,4 +20,4 @@ You **must not use** any built-in exponent function or operator.
 **Constraints:**
 - `0 <= x <= 231 - 1`
 
-**Link:** [LeetCode 69](https://leetcode.com/problems/sqrtx/)
+**Link:** [LeetCode Problem 69](https://leetcode.com/problems/sqrtx/)

@@ -24,4 +24,4 @@ Return *the head of the merged linked list.*
 - `-100 <= Node.val <= 100 `
 - Both `list1` and `list2` are sorted in **non-decreasing order**
 
-**Link:** [LeetCode 21](https://leetcode.com/problems/merge-two-sorted-lists/)
+**Link:** [LeetCode Problem 21](https://leetcode.com/problems/merge-two-sorted-lists/)

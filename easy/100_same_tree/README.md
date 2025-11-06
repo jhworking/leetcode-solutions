@@ -21,4 +21,4 @@ Two binary trees are considered the same if they are structurally identical, and
 - The number of nodes in both trees is in the range `[0, 100]`.
 - `-104 <= Node.val <= 104`
 
-**Link:** [LeetCode 100](https://leetcode.com/problems/same-tree/)
+**Link:** [LeetCode Problem 100](https://leetcode.com/problems/same-tree/)

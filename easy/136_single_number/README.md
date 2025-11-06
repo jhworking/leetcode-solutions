@@ -22,4 +22,4 @@ You must implement a solution with a linear runtime complexity and use only cons
 - `-3 * 104 <= nums[i] <= 3 * 104`
 - Each element in the array appears twice except for one element which appears only once.
 
-**Link:** [LeetCode 136](https://leetcode.com/problems/single-number/)
+**Link:** [LeetCode Problem 136](https://leetcode.com/problems/single-number/)

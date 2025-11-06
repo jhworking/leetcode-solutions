@@ -15,4 +15,4 @@ Given the `root` of a binary tree, check whether it is a mirror of itself (i.e.,
 - The number of nodes in the tree is in the range `[1, 1000].`
 - `-100 <= Node.val <= 100`
 
-**Link:** [LeetCode 101](https://leetcode.com/problems/symmetric-tree/)
+**Link:** [LeetCode Problem 101](https://leetcode.com/problems/symmetric-tree/)

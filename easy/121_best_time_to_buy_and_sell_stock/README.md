@@ -22,4 +22,4 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 - `1 <= prices.length <= 105`
 - `0 <= prices[i] <= 104`
 
-**Link:** [LeetCode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+**Link:** [LeetCode Problem 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)

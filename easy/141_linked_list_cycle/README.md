@@ -27,4 +27,4 @@ Return `true` *if there is a cycle in the linked list.* Otherwise, return `false
 - `-105 <= Node.val <= 105`
 - `pos` is `-1` or a **valid index** in the linked-list.
 
-**Link:** [LeetCode 141](https://leetcode.com/problems/linked-list-cycle/)
+**Link:** [LeetCode Problem 141](https://leetcode.com/problems/linked-list-cycle/)

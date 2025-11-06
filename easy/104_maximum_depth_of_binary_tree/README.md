@@ -17,4 +17,4 @@ A binary tree's **maximum depth** is the number of nodes along the longest path 
 - The number of nodes in the tree is in the range `[0, 104]`.
 - `-100 <= Node.val <= 100`
 
-**Link:** [LeetCode 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+**Link:** [LeetCode Problem 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)

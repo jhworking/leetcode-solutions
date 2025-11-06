@@ -16,4 +16,4 @@ In **Pascal's triangle**, each number is the sum of the two numbers directly abo
 **Constraints:**
 - `1 <= numRows <= 30`
 
-**Link:** [LeetCode 118](https://leetcode.com/problems/pascals-triangle/)
+**Link:** [LeetCode Problem 118](https://leetcode.com/problems/pascals-triangle/)

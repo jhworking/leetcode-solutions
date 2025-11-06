@@ -19,4 +19,4 @@ The minimum depth is the number of nodes along the shortest path from the root n
 - The number of nodes in the tree is in the range `[0, 105]`.
 - `-1000 <= Node.val <= 1000`
 
-**Link:** [LeetCode 111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+**Link:** [LeetCode Problem 111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)

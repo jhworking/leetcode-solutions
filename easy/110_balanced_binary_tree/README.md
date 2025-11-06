@@ -15,4 +15,4 @@ Given a binary tree, determine if it is **height-balanced**.
 - The number of nodes in the tree is in the range `[0, 5000]`.
 - `-104 <= Node.val <= 104`
 
-**Link:** [LeetCode 110](https://leetcode.com/problems/balanced-binary-tree/)
+**Link:** [LeetCode Problem 110](https://leetcode.com/problems/balanced-binary-tree/)

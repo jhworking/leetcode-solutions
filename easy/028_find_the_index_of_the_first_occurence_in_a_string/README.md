@@ -17,4 +17,4 @@ Given two strings `needle` and `haystack`, return the index of the first occurre
 - `0 <= haystack.length, needle.length <= 5 * 10^4`
 - `haystack` and `needle` consist of only lowercase English characters.
 
-**Link:** [LeetCode 028](https://leetcode.com/problems/implement-strstr/)
+**Link:** [LeetCode Problem 28](https://leetcode.com/problems/implement-strstr/)

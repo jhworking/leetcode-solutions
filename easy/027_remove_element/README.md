@@ -26,4 +26,4 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 - `0 <= nums[i] <= 50`
 - `0 <= val <= 100`
 
-**Link:** [LeetCode 027](https://leetcode.com/problems/remove-element/)
+**Link:** [LeetCode Problem 27](https://leetcode.com/problems/remove-element/)

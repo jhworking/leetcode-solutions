@@ -28,4 +28,4 @@ There is no root-to-leaf path with sum = 5.
 - `-1000 <= Node.val <= 1000`
 - `-1000 <= targetSum <= 1000`
 
-**Link:** [LeetCode 112](https://leetcode.com/problems/path-sum/)
+**Link:** [LeetCode Problem 112](https://leetcode.com/problems/path-sum/)

@@ -25,4 +25,4 @@ A **word** is defined as a maximal **substring** consisting of non-space charact
 - `s` consists of only English letters and spaces `' '`.
 - There will be at least one word in `s`.
 
-**Link:** [LeetCode 58](https://leetcode.com/problems/length-of-last-word/)
+**Link:** [LeetCode Problem 58](https://leetcode.com/problems/length-of-last-word/)

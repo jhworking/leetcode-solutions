@@ -33,4 +33,4 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 - `1 <= m + n <= 200`
 - `-109 <= nums1[i], nums2[j] <= 109`
 
-**Link:** [LeetCode 88](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+**Link:** [LeetCode Problem 88](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)

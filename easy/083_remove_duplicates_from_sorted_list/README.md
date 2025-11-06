@@ -16,4 +16,4 @@ Given the `head` of a sorted linked list, *delete all duplicates such that each 
 - `-100 <= Node.val <= 100`
 - The list is guaranteed to be **sorted** in ascending order.
 
-**Link:** [LeetCode 83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+**Link:** [LeetCode Problem 83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)

@@ -20,4 +20,4 @@ In **Pascal's triangle**, each number is the sum of the two numbers directly abo
 **Constraints:**
 - `0 <= rowIndex <= 33`
 
-**Link:** [LeetCode 119](https://leetcode.com/problems/pascals-triangle-ii/)
+**Link:** [LeetCode Problem 119](https://leetcode.com/problems/pascals-triangle-ii/)

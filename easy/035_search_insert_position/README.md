@@ -23,4 +23,4 @@ You must write an algorithm with `O(log n)` runtime complexity.
 - `nums` contains **distinct** values in **ascending** order
 - ``-10^4 <= target <= 10^4``
 
-**Link:** [LeetCode 035](https://leetcode.com/problems/search-insert-position/)
+**Link:** [LeetCode Problem 35](https://leetcode.com/problems/search-insert-position/)

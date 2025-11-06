@@ -21,4 +21,4 @@ Explanation: Reads 10 forward and 01 backward, not the same.
 **Constraints:**  
 - -2^31 <= x <= 2^31 - 1
 
-**Link:** [LeetCode 9](https://leetcode.com/problems/palindrome-number/)
+**Link:** [LeetCode Problem 9](https://leetcode.com/problems/palindrome-number/)

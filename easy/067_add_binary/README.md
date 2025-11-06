@@ -16,4 +16,4 @@ Given two binary strings `a` and `b`, return *their sum as a binary string*.
 - `a` and `b` consist only of `'0'` or `'1'` characters.
 - Each string does not contain leading zeros except for the zero itself.
 
-**Link:** [LeetCode 67](https://leetcode.com/problems/add-binary/)
+**Link:** [LeetCode Problem 67](https://leetcode.com/problems/add-binary/)

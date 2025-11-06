@@ -23,4 +23,4 @@ Given the `root` of a binary tree, return *the postorder traversal of its nodes'
 - The number of the nodes in the tree is in the range `[0, 100]`.
 - `-100 <= Node.val <= 100`
 
-**Link:** [LeetCode 145](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+**Link:** [LeetCode Problem 145](https://leetcode.com/problems/binary-tree-postorder-traversal/)

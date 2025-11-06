@@ -32,4 +32,4 @@ An input string is valid if:
 - `1 <= s.length <= 10^4`
 - `s` consists of parentheses only `'()[]{}'`.
 
-**Link:** [LeetCode 020](https://leetcode.com/problems/valid-parentheses/)
+**Link:** [LeetCode Problem 20](https://leetcode.com/problems/valid-parentheses/)
