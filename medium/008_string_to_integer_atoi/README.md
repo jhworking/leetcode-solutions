@@ -17,7 +17,7 @@ Return the integer as the final result.
 **Explanation:**  
 The underlined characters are what is read in and the caret is the current reader position.  
 Step 1: "42" (no characters read because there is no leading whitespace)  
-```         ```^  
+```       ```^  
 Step 2: "42" (no characters read because there is neither a '-' nor '+')  
          ^  
 Step 3: "42" ("42" is read in)
